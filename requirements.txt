@@ -1,4 +1,4 @@
+Flask
 transformers
-torch
 librosa
-huggingface_hub
+torch
